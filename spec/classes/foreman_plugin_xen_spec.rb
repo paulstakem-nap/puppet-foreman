@@ -7,3 +7,4 @@ describe 'foreman::plugin::xen' do
 
   it { should contain_foreman__plugin('xen') }
 end
+
